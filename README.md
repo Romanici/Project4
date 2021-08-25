@@ -1,8 +1,8 @@
 # Sparkify User Churn Prediction
 
-Sparkify is a fictional music streaming platform created by Udacity. For this project we are given log data of this platform as a json file in order to drive insights and create a machine learning pipeline to predict user churn. Any platform is interested in detecting which users are likely to cancel the service so as to take action (offer discounts, promotions etc.) to retain them. But you also have to be careful and avoid giving discounts to users that are not actually thinking about leaving the service. 
+Sparkify is a fictional music streaming platform created by Udacity. For this project we are given log data of this platform as a json file and we are asked to generate insights in order to predict which users will churn. Any platform is interested in detecting which users are likely to cancel the service so as to take action (offer discounts, promotions etc.) to retain them. But companies also have to be careful and avoid giving discounts to users that are not actually thinking about leaving the service. 
 
-You can find more information about the project in my post [here](https://medium.com/p/17366df43078/edit).
+You can find more information about the project in my post [here](https://afagustin7.medium.com/predicting-user-churn-for-sparkify-17366df43078).
 
 So, the steps of the project are the following:
 
@@ -32,7 +32,7 @@ git clone https://github.com/Romanici/Project4.git
 
 jupyter lab
 ```
-Open **Sparkify.ipynb** and run the cells. 
+Open **Sparkify_final.ipynb** and run the cells. There is one caveat, the dataset is not available in this repository due to its size (128MB).
 
 
 ## Results
