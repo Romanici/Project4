@@ -1,6 +1,6 @@
 # Sparkify User Churn Prediction
 
-Sparkify is a fictional music streaming platform created by Udacity. For this project we are given log data of this platform as a json file in order to drive insights and create a machine learning pipeline to predict user churn. Any platform is instered in detect which users are likely to cancel the service so as to take action (offer discounts, promotions etc.) to retain them. But you also have to be careful and avoid giving discounts to users that are not actually thinking about leaving the service. 
+Sparkify is a fictional music streaming platform created by Udacity. For this project we are given log data of this platform as a json file in order to drive insights and create a machine learning pipeline to predict user churn. Any platform is interested in detecting which users are likely to cancel the service so as to take action (offer discounts, promotions etc.) to retain them. But you also have to be careful and avoid giving discounts to users that are not actually thinking about leaving the service. 
 
 You can find more information about the project in my post [here](https://medium.com/p/17366df43078/edit).
 
