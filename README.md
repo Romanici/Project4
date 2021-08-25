@@ -4,7 +4,7 @@ Sparkify is a fictional music streaming platform created by Udacity. For this pr
 
 You can find more information about the project in my post [here](https://medium.com/p/17366df43078/edit).
 
-So, the steps consist of:
+So, the steps of the project are the following:
 
 - Cleaning the data.
 - Exploratory data analysis.
