@@ -47,8 +47,8 @@ The results are reasonably good, the models have notorious predictive value. The
 
 ## Discussion
 
-A list of things remain to be done. Here I comment just some of them:
-- First and the most important one, I still have to process the complete dataset using a Spark's cluster. The results are obtained from a subset of the dataset. 
+A list of things that remain to be done. Here I comment just some of them:
+- First and the most important one, I still have to process the complete dataset using a Spark cluster. The results are obtained from a subset of the dataset. 
 - Improve tuning of the random forest and gradient boosting, try more hyperparameters. 
 - Assess how unbalanced is the data. In practice, during a given period very few users churn with respect to the total population. 
 - More careful analysis in the feature engineer step, more features can be created. 
